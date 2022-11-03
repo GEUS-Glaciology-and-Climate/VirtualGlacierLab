@@ -4,9 +4,13 @@
 #
 #Contents: Notes on PISM installation
 #
-#The purpose of this document is to facilitate the installation of PISM on #the Glacio01 server at GEUS. 
+#The purpose of this document is to facilitate the installation of PISM on 
+#the Glacio01 server at GEUS. 
 #
-#This is a living document, so please feel free to update it according to #your experience when installing.   
+#Please also to refer to the PISM manual when installing PISM 
+#
+#This is a living document, so please feel free to update it according to 
+#your experience when installing.   
 #........................................
 
 First: Make sure you only have one version of mpi installed. PISM may get confused if there are several versions floating around. Uninstall any extra versions.
