@@ -1,5 +1,5 @@
 #........................................
-#Authors: syhsv, as0
+#Authors: syhsv, aso
 #Creation date: 2022-11-03
 #
 #Contents: Notes on PISM installation
