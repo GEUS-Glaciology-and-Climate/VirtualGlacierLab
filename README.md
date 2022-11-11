@@ -1,7 +1,7 @@
 # VirtualGlacierLab
 Infrastructure for the Virtual Glacier Lab.
 
-##Practical usage:
+## Practical usage:
 
 ### Choosing number of cores to use and which cores to use:
 *Example:*  mpiexec -n 4 taskset -c 37-41 pismr -i pism_Greenland_5km_v1.1.nc
